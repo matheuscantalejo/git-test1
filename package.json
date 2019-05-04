@@ -1,0 +1,28 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is the Git and Node basic learning project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheuscantalejo/coursera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://matheuscantalejo@bitbucket.org/matheuscantalejo/git-test1.git",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "file:bootstrap-social",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.15.0",
+    "python": "0.0.4"
+  }
+}
